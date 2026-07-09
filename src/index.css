@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f3f6fb;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#root {
+  width: 100%;
+}
+
+.export-btn{
+
+background:#16a34a;
+
+color:white;
+
+border:none;
+
+padding:16px 35px;
+
+font-size:18px;
+
+border-radius:12px;
+
+cursor:pointer;
+
+transition:.3s;
+
+box-shadow:0 10px 25px rgba(22,163,74,.25);
+
+}
+
+.export-btn:hover{
+
+background:#15803d;
+
+transform:translateY(-4px);
+
+box-shadow:0 15px 30px rgba(22,163,74,.35);
+
+}
