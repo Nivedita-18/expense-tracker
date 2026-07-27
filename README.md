@@ -10,19 +10,23 @@ https://expense-tracker-alpha-rosy-59.vercel.app/
 
 ### 🏠 Home Page
 
-![Home](transaction history and filter.png)
+![Home](https://raw.githubusercontent.com/Nivedita-18/expense-tracker/main/lightmode.png)
+
+## ➕ Add Transaction
+
+![Add Transaction](https://raw.githubusercontent.com/Nivedita-18/expense-tracker/main/add%20transaction.png)
 
 ### 🥧 Expense Analytics
 
-![Pie Chart](pie chart expense.png)
+![Expense Analytics](https://raw.githubusercontent.com/Nivedita-18/expense-tracker/main/monthly%20expense%20%2Ctotal%20etc.png)
 
 ### 📈 Monthly Expense Chart
 
-![Bar Chart](bar graph monthly expense.png)
+![Pie Chart](https://raw.githubusercontent.com/Nivedita-18/expense-tracker/main/pie%20chart%20expense.png)
 
 ### 📊 Statistics
 
-![Statistics](monthly expense_total etc.png)
+![Monthly Expense Bar Graph](https://raw.githubusercontent.com/Nivedita-18/expense-tracker/main/bar%20graph%20monthly%20expense.png)
 
 ### 📤 Export CSV & Recent Activity
 
