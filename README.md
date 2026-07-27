@@ -22,7 +22,7 @@ https://expense-tracker-alpha-rosy-59.vercel.app/
 
 ### 📊 Statistics
 
-![Statistics](monthly%20expense,total%20etc.png)
+![Statistics](monthly%20expense_total%20etc.png)
 
 ### 📤 Export CSV & Recent Activity
 
