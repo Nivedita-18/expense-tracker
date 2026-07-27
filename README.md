@@ -10,19 +10,19 @@ https://expense-tracker-alpha-rosy-59.vercel.app/
 
 ### 🏠 Home Page
 
-![Home](transaction%20history%20and%20filter.png)
+![Home](transaction history and filter.png)
 
 ### 🥧 Expense Analytics
 
-![Pie Chart](pie%20chart%20expense.png)
+![Pie Chart](pie chart expense.png)
 
 ### 📈 Monthly Expense Chart
 
-![Bar Chart](bar%20graph%20monthly%20expense.png)
+![Bar Chart](bar graph monthly expense.png)
 
 ### 📊 Statistics
 
-![Statistics](monthly%20expense_total%20etc.png)
+![Statistics](monthly expense_total etc.png)
 
 ### 📤 Export CSV & Recent Activity
 
